@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Nixie+One");
+
+h1 {
+	font: normal 80px/ 40px "Nixie One", Helvetica, Arial;
+	color: #fff;
+	text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
+		0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
+}
+
+.board {
+	margin: 0 auto;
+	border: 1px solid #fff;
+	padding: 2px;
+	background-color: #003333;
+	box-shadow: 0 3px 25px rgb(255, 255, 255), 0 3px 6px rgb(255, 255, 255);
+}

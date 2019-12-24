@@ -1,0 +1,16 @@
+.Cell {
+	height: 100px;
+	width: 100px;
+	background-color: #e5ffff;
+	cursor: pointer;
+}
+
+.Cell-lit {
+	background-color: #00e5e5;
+	box-shadow: inset 0px 0px 15px 1px #fff;
+	transition: opacity 0.2s ease;
+}
+
+.Cell-lit:hover {
+	opacity: 0.97;
+}
